@@ -1,58 +1,56 @@
-# 王小义的好物推荐
+# 🦐 XiaoyiShare — 王小义的好物推荐
 
-> 一个程序员学AI路上挖到的各种好工具、好服务，分享给有缘人。
+> 程序员出海、搞Web3、薅资本主义羊毛，这些工具我都替你踩过坑了。
 
----
+你好，我是王小义 👋
 
-## 关于我
+一个普通程序员，这几年搞出海、玩Web3、折腾跨境支付，踩了无数坑，也攒了一堆真正好用的工具和平台。XiaoyiShare 就是我把这些好东西整理出来分享的地方。
 
-我是**王小义**，一个程序员，现在转型学 AI 的程序员。踩过坑、花过冤枉钱，也摸到过一些真香的工具。这个 repo 就是我的"好物笔记"——每篇都是我自己用过之后觉得值得推荐的，**有邀请链接的就挂邀请链接，没利益的就纯分享**。
+## 这里是啥？
 
-信不信由你，反正我不用那些虚的。
+每篇一个工具/平台，**纯个人真实体验**，不整虚的。从账号购买到银行开户，从交易所到券商，你能想到的出海工具箱，我这都有。
 
----
+## 分类
 
-## 分类索引
+### 🛒 通用类
+| 工具 | 一句话 |
+|------|--------|
+| [账号购买平台](docs/account-buy-guide.md) | 海外账号哪里买？邮箱、SIM、会员一站搞定 |
+| [TG账号](docs/tg-account-guide.md) | 批量TG账号，懂的都懂 |
+| [Apple ID](docs/apple-id-guide.md) | 美区Apple ID入手姿势 |
+| [XESim](docs/xesim-guide.md) | 虚拟号转实体卡，多号党狂喜 |
+| [住宅IP](docs/residential-ip-guide.md) | 原生德国住宅IP，稳得一批 |
+| [指纹浏览器](docs/adsbower-fingerprint-guide.md) | AdsPower，跨境电商防关联必备 |
 
-### 📦 通用类
-| 工具 | 说明 |
-|------|------|
-| [账号购买指南](./docs/account-buy-guide.md) | 买账号、邮箱、SIM、会员的一站式平台 |
-| [TG 账号购买指南](./docs/tg-account-guide.md) | Telegram 账号，懂的都懂 |
-| [Apple ID 购买指南](./docs/apple-id-guide.md) | 老美区 Apple ID，出海必备 |
-| [XESim 使用指南](./docs/xesim-guide.md) | 虚拟号转实体卡，多号神器 |
-| [住宅 IP 代理指南](./docs/residential-ip-guide.md) | 德国原生住宅 IP，防封号利器 |
-| [AdsPower 指纹浏览器指南](./docs/adsbower-fingerprint-guide.md) | 多开账号防关联的不二之选 |
-
-### ⛓️ Web3 类
-| 工具 | 说明 |
-|------|------|
-| [币安注册指南](./docs/binance-register-guide.md) | 全球最大交易所开户 |
-| [SafePal 钱包指南](./docs/safepal-guide.md) | 冷钱包 + 瑞士 Fiat24 万事达卡 |
+### 🌐 Web3 类
+| 工具 | 一句话 |
+|------|--------|
+| [币安](docs/binance-register-guide.md) | 币安注册邀请，返佣你懂的 |
+| [SafePal](docs/safepal-guide.md) | 冷钱包+瑞士万事达卡，Web3入金一条龙 |
 
 ### 💳 支付类
-| 工具 | 说明 |
-|------|------|
-| [众安银行 ZA Bank 开户指南](./docs/za-bank-guide.md) | 香港虚拟银行，人在内地也能开 |
-| [Wise 跨境汇款指南](./docs/wise-guide.md) | 跨境汇款的神器 |
-| [德国 N26 银行开户指南](./docs/n26-guide.md) | 欧洲银行账户，全球消费 |
-| [iFAST 银行开户指南](./docs/ifast-guide.md) | 英国银行+投资平台 |
+| 工具 | 一句话 |
+|------|--------|
+| [众安银行 ZA Bank](docs/za-bank-guide.md) | 香港线上开户，人在内地也能办 |
+| [Wise](docs/wise-guide.md) | 跨境汇款神器，汇率吊打银行 |
+| [德国N26](docs/n26-guide.md) | 欧洲银行账户，出海的通行证 |
+| [iFAST](docs/ifast-guide.md) | 英国银行+投资，环球账户一步到位 |
 
 ### 📈 证券类
-| 工具 | 说明 |
-|------|------|
-| [复兴证券开户指南](./docs/fosun-securities-guide.md) | 港股投资新选择 |
-| [致富证券开户指南](./docs/chief-securities-guide.md) | 香港老牌券商 |
-| [盈透 IBKR 开户指南](./docs/ibkr-guide.md) | 全球券商天花板 |
+| 工具 | 一句话 |
+|------|--------|
+| [复兴证券](docs/fosun-securities-guide.md) | 复星系券商，港股打新不错 |
+| [致富证券](docs/chief-securities-guide.md) | 香港老牌券商，开户门槛低 |
+| [盈透IBKR](docs/ibkr-guide.md) | 全球券商的终极答案，IBKR没得说 |
+
+## 更新频率
+
+随缘更新，踩了新坑就写。**有推荐或反馈，欢迎提 Issue。**
+
+## 邀请链接说明
+
+部分文章含邀请链接（有返佣），**但我推荐的东西都是我自己在用的**。不会为了返佣推垃圾货，这点信任还是值得的。
 
 ---
 
-## ⚠️ 免责声明
-
-1. 所有推荐项目和链接均包含可能使本人获得收益的邀请链接/推荐码
-2. 加密货币及金融投资存在风险，请务必自行判断
-3. 本仓库内容不构成任何投资建议
-
----
-
-> 更新于 2026-05-15 | 持续更新中...
+**Star ⭐ 一下，支持小义继续踩坑写文 🦐**
