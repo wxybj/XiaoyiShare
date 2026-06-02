@@ -22,6 +22,16 @@
 | [HeroSMS](docs/hero-sms-guide.md) | OpenAI / Claude 等 AI 平台手机验证码接码工具 |
 | [住宅IP](docs/residential-ip-guide.md) | 原生德国住宅IP，稳得一批 |
 | [指纹浏览器](docs/adsbower-fingerprint-guide.md) | AdsPower，跨境电商防关联必备 |
+| [海外手机卡](docs/overseas-sim-card-guide.md) | 出海注册、验证码和长期养号的手机号基础设施 |
+| [谷歌邮箱](docs/gmail-account-guide.md) | Gmail / Google 账号购买与安全使用建议 |
+| [TikTok账号](docs/tiktok-account-guide.md) | TikTok 出海内容和投放测试的账号入口 |
+| [AI订阅服务](docs/ai-subscription-service-guide.md) | ChatGPT、Claude 等 AI 工具会员开通方案 |
+
+
+### 🛜 网络类
+| 工具 | 一句话 |
+|------|--------|
+| [流量 / 宽带](docs/traffic-broadband-guide.md) | 手机流量卡、宽带和备用网络办理入口 |
 
 ### 🌐 Web3 类
 | 工具 | 一句话 |
