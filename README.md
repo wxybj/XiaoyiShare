@@ -44,6 +44,7 @@
 |------|--------|
 | [众安银行 ZA Bank](docs/za-bank-guide.md) | 香港线上开户，人在内地也能办 |
 | [Wise](docs/wise-guide.md) | 跨境汇款神器，汇率吊打银行 |
+| [Starryblu](docs/starryblu-guide.md) | 跨境支付、多币种账户和 AI 订阅备用工具 |
 | [德国N26](docs/n26-guide.md) | 欧洲银行账户，出海的通行证 |
 | [iFAST](docs/ifast-guide.md) | 英国银行+投资，环球账户一步到位 |
 
