@@ -51,7 +51,9 @@
 ### 📈 证券类
 | 工具 | 一句话 |
 |------|--------|
-| [复兴证券](docs/fosun-securities-guide.md) | 复星系券商，港股打新不错 |
+| [复兴证券](docs/fosun-securities-guide.md) | 香港卡办完后，顺手参与新户入金和港股打新福利 |
+| [Neverless](docs/neverless-guide.md) | 低费率投资 App，小额体验美股、ETF、金属和加密资产 |
+| [腾达证券 GigaMoney](docs/gigamoney-guide.md) | 香港持牌券商，港美股长期 0 佣金，新户入金有补贴 |
 | [致富证券](docs/chief-securities-guide.md) | 香港老牌券商，开户门槛低 |
 | [盈透IBKR](docs/ibkr-guide.md) | 全球券商的终极答案，IBKR没得说 |
 
