@@ -22,6 +22,12 @@ link: "https://proxy-seller.com/zh/?partner=PVYAOBD3FU2Y0I"
 
 链接：[Proxy-Seller](https://proxy-seller.com/zh/?partner=PVYAOBD3FU2Y0I) | 邀请码 `UOKCSD_1145085`
 
+专属折扣优惠码： XIAOYI
+
+IPv4、IPv6 和 ISP 服务享 15% 折扣
+住宅IP享15%折扣
+移动代理享9折优惠
+
 说几个感受：
 
 1. **稳**：不像某些住宅IP服务，动不动就断连或超时
